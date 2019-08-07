@@ -1,0 +1,5 @@
+- Create Class representing a vampyre (or being in general). User literal arrays to be as flexible as possible. Include also gear, which should be stored in some database
+- Class should also contain functions to attack another vampyre
+- Create help functions (throwing dices etc.)
+- Create a battlefield, possible (later) including obstacles, line of sight hindering obstacles etc.
+- 
